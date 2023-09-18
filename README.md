@@ -28,11 +28,15 @@
   
 ## TABLA DE MATERIALES Y PRECIOS
   La sigueinte tabla describe los materiales usados y el precio de cada uno:
-  ![image](https://github.com/ProjectsPhycom/G1T1-2023.MusicLight/assets/145176980/eee24e56-e6f6-4237-b24d-b8e573970090)
+  ![tabla de precios](https://github.com/ProjectsPhycom/G1T1-2023.MusicLight/assets/145176980/eee24e56-e6f6-4237-b24d-b8e573970090)
 
 ## POSIBLES MEJORAS
   Una posible mejora del proyecto es hacer que funcione con los mandos que vienen incluidos en las luces led para evitar switcheras y poder usar el control remoto, ya que esto permitiria mayor comodidad.
 
 ## DISEÑO DEL CIRCUITO
+A continuacion se presenta el circuito de funcionamiento en proteus.
+![implementación en proteus](https://github.com/ProjectsPhycom/G1T1-2023.MusicLight/assets/145176980/21b1b328-6526-4518-9c0f-41c5c1cb39a1)
+
+
 
 ## VIDEO DE FUNCIONAMIENTO
