@@ -35,8 +35,7 @@
 
 ## DISEÑO DEL CIRCUITO
 A continuacion se presenta el circuito de funcionamiento en proteus:
-![implementación en proteus](https://github.com/ProjectsPhycom/G1T1-2023.MusicLight/assets/145176980/21b1b328-6526-4518-9c0f-41c5c1cb39a1)
-
+![implementación en proteus](https://github.com/ProjectsPhycom/G1T1-2023.MusicLight/assets/145176980/2ef0ec98-e4c4-4cce-8541-5ede310146f0)
 
 
 ## VIDEO DE FUNCIONAMIENTO
