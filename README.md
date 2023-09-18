@@ -34,7 +34,7 @@
   Una posible mejora del proyecto es hacer que funcione con los mandos que vienen incluidos en las luces led para evitar switcheras y poder usar el control remoto, ya que esto permitiria mayor comodidad.
 
 ## DISEÑO DEL CIRCUITO
-A continuacion se presenta el circuito de funcionamiento en proteus.
+A continuacion se presenta el circuito de funcionamiento en proteus:
 ![implementación en proteus](https://github.com/ProjectsPhycom/G1T1-2023.MusicLight/assets/145176980/21b1b328-6526-4518-9c0f-41c5c1cb39a1)
 
 
