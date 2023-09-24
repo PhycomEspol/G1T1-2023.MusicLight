@@ -38,7 +38,8 @@ A continuacion se presenta el circuito de funcionamiento en proteus:
 ![implementación en proteus](https://github.com/ProjectsPhycom/G1T1-2023.MusicLight/assets/145176980/2ef0ec98-e4c4-4cce-8541-5ede310146f0)
 
 Link de simulacion en proteus: 
-![link one drive](https://espolec-my.sharepoint.com/:u:/g/personal/dagoyagu_espol_edu_ec/EeW5ns1FAM9PusF22X_aFMYBNWhQNbyjxmHYlV9QIrSvqg?e=69tee4)
+[link one drive](https://espolec-my.sharepoint.com/:u:/g/personal/dagoyagu_espol_edu_ec/EeW5ns1FAM9PusF22X_aFMYBNWhQNbyjxmHYlV9QIrSvqg?e=69tee4)
+
 ## VIDEO DE FUNCIONAMIENTO
 A continuacion se adjunta el link de one drive con el video del funcionamiento:
 [video](https://espolec-my.sharepoint.com/:v:/g/personal/dagoyagu_espol_edu_ec/ESzI-ldHZeRAnfh8Id7v0NIB1POX-gterjhPGcaQVJzsDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=eQ2FCr)
