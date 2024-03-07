@@ -134,7 +134,3 @@ A continuación, se muestran algunas imágenes del proyecto:
 ![Imagen 1](https://github.com/PhycomEspol/G1T1-2023.MusicLight/assets/145176980/02f81e45-7029-48b6-ab54-3bf0a8884420)
 ![Imagen 2](https://github.com/PhycomEspol/G1T1-2023.MusicLight/assets/145176980/92ab5380-7fce-4288-9033-0763bbb2cc27)
 
-
-## Informacion-adicional ✒️
----
-Esta es la sección que permite agregar más información de contexto al proyecto como alguna web de relevancia, proyectos similares o que hayan usado la misma tecnología.
