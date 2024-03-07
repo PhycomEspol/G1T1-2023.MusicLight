@@ -59,11 +59,23 @@ A continuacion se adjunta el link de one drive con el video del funcionamiento:
 
 ## Pre-requisitos  📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+Para la elaboracion de este modulo, se dividido en 3 etapas:
+  + Etapa de regulacion
+  + Etapa de amplifiacion de baja potencia
+  + Etapa de amplificacion de alta potencia
 
-```
-Da un ejemplo
-```
+  ### **Etapa de regulacion**
+      Esta etapa consiste en la regulacion de la intensidad de la luz, mediante el          uso de un potenciometro de 100K, lo que tambien limita la sensibilidad del            microfono electrec que recibe el sonido de la musica.
+
+  
+  ### **Etapa de amplificacion de baja potencia**
+      El transistor 2N2222 se encarga de amplificar la pequeña señal del micrófono y, mediante el emisor, envía una corriente al transistor TIP31C para la siguiente etapa. Cabe mencionar que el 2N2222 controla al TIP31C, que tiene mayor potencia.
+
+
+  ### **Etapa de amplificacion de alta potencia**
+     El transistor TIP31C se encarga de encender y apagar las luces LED que necesitan 12V mediante la señal del 2N2222, dado que el transistor TIP31C tiene una mayor capacidad para manejar altos voltajes.
+
+_PRUEBA_
 
 ## Materiales  📦
 Agregar la lista de materiales necesario para construir el proyecto. Si desean adjuntar los costos de los materiales se puede adicionar
