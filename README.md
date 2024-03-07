@@ -47,7 +47,7 @@ A continuacion se adjunta el link de one drive con el video del funcionamiento:
 
 
 <h1 align="center"> [MUSIC LIGHTS] </h1>
-![Captura de pantalla 2024-03-07 003356](https://github.com/PhycomEspol/G1T1-2023.MusicLight/assets/145176980/c9a63f11-08ef-4a33-bec9-4cc56c605141)
+  ![Captura de pantalla 2024-03-07 003356](https://github.com/PhycomEspol/G1T1-2023.MusicLight/assets/145176980/c9a63f11-08ef-4a33-bec9-4cc56c605141)
 
 
 
@@ -107,7 +107,8 @@ Total Estimado: $2.70 USD 💲
 
 ## Esquemas 📊
 
-A continuacion se presenta el circuito de funcionamiento en proteus:
+A continuacion se presenta el circuito de funcionamiento en proteus:  
+
 ![implementación en proteus](https://github.com/ProjectsPhycom/G1T1-2023.MusicLight/assets/145176980/2ef0ec98-e4c4-4cce-8541-5ede310146f0)
 
 
