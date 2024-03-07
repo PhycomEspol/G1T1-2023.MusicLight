@@ -81,20 +81,21 @@ Para la elaboracion de este modulo, se dividido en 3 etapas:
      mediante la señal del 2N2222, dado que el transistor TIP31C tiene una mayor capacidad  
      para manejar altos voltajes.
 
-_PRUEBA_
 
 ## Materiales  📦
-Agregar la lista de materiales necesario para construir el proyecto. Si desean adjuntar los costos de los materiales se puede adicionar
 
 A continuación se muestra una lista de los materiales requeridos, junto con la cantidad y el precio de cada uno:
 
 
   Nombre del Material  | Cantidad  | Precio Unitario (USD)  
 |----------------------|-----------|-------------------------
-| Photoresistencia     | 7         | 💲0.30                 |
-| Laser Emit           | 7         | 💲1                    |
-| Arduino UNO          | 2         | 💲15                   |
-| Cableado             | 10 metros | 💲1.50 por metro       |
+| Potenciometro de 100K    | 1         | 💲0.30                 |
+| Micrófono electrec     | 1         | 💲1                    |
+| Transistor 2N2222        | 1         | 💲15                   |
+| Transistor TIP31C          | 1 | 💲1.50 por metro       |
+| Leds         | 4 | 💲1.50 por metro       |
+| Bornera         | 2 | 💲1.50 por metro       |
+| Switchera         | 1 | 💲1.50 por metro       |
 
 
 ## Total-estimado  💰
