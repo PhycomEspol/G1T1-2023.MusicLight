@@ -126,14 +126,14 @@ https://espolec-my.sharepoint.com/:f:/g/personal/phycom_espol_edu_ec/Ev_QF9sXrLd
 
 No olvidar decirle a su mentor que ya fue subido el video para que el Dep.Proyectos pueda agregar el link en esta sección
 "-->
-Puedes encontrar un video demostrativo de este proyecto en [este enlace]([url_del_video](https://espolec-my.sharepoint.com/:v:/g/personal/dagoyagu_espol_edu_ec/ESzI-ldHZeRAnfh8Id7v0NIB1POX-gterjhPGcaQVJzsDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=eQ2FCr).
+Puedes encontrar un video demostrativo de este proyecto en [este enlace]([url_del_video](https://espolec-my.sharepoint.com/:v:/g/personal/dagoyagu_espol_edu_ec/ESzI-ldHZeRAnfh8Id7v0NIB1POX-gterjhPGcaQVJzsDg?e=lxdPYz&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiIxYzU2OGRiMC0zZDJhLTQzZjYtYTQ4ZC1lODUwNTM0NjViMzEifX0%3D).
 
 ## Imagenes 📊
 
 A continuación, se muestran algunas imágenes del proyecto:
+![Imagen 1](https://github.com/PhycomEspol/G1T1-2023.MusicLight/assets/145176980/02f81e45-7029-48b6-ab54-3bf0a8884420)
+![Imagen 2](https://github.com/PhycomEspol/G1T1-2023.MusicLight/assets/145176980/92ab5380-7fce-4288-9033-0763bbb2cc27)
 
-![Imagen 1](url_de_la_imagen_1.png)
-![Imagen 2](url_de_la_imagen_2.png)
 
 ## Informacion-adicional ✒️
 ---
