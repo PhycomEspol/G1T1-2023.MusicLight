@@ -89,20 +89,20 @@ A continuación se muestra una lista de los materiales requeridos, junto con la 
 
   Nombre del Material  | Cantidad  | Precio Unitario (USD)  
 |----------------------|-----------|-------------------------
-| Potenciometro de 100K    | 1         | 💲0.30                 |
-| Micrófono electrec     | 1         | 💲1                    |
-| Transistor 2N2222        | 1         | 💲15                   |
-| Transistor TIP31C          | 1 | 💲1.50 por metro       |
-| Leds         | 4 | 💲1.50 por metro       |
-| Bornera         | 2 | 💲1.50 por metro       |
-| Switchera         | 1 | 💲1.50 por metro       |
+| Potenciometro de 100K    | 1         | 💲0.50                 |
+| Micrófono electrec     | 1         | 💲0.25                    |
+| Transistor 2N2222        | 1         | 💲0.15                   |
+| Transistor TIP31C          | 1 | 💲0.80       |
+| Leds         | 4 | 💲0.10       |
+| Bornera         | 2 | 💲0.20       |
+| Switchera         | 1 | 💲0.20       |
 
 
 ## Total-estimado  💰
 
 El costo total estimado del proyecto se calcula sumando los precios de todos los materiales:
 
-Total Estimado: $XX.XX USD 💲
+Total Estimado: $2.70 USD 💲
 
 ## Esquemas 📊
 
@@ -131,10 +131,7 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a crear el proyecto_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](https://github.com/DarinkaTownsend)
+* **David Gonzalez** - *Elaboracion del proyecto* - [dagoyagu](https://github.com/dagoyagu)
 
 
 ## Video-demostrativo 🎥
@@ -144,7 +141,7 @@ https://espolec-my.sharepoint.com/:f:/g/personal/phycom_espol_edu_ec/Ev_QF9sXrLd
 
 No olvidar decirle a su mentor que ya fue subido el video para que el Dep.Proyectos pueda agregar el link en esta sección
 "-->
-Puedes encontrar un video demostrativo de este proyecto en [este enlace](url_del_video).
+Puedes encontrar un video demostrativo de este proyecto en [este enlace]([url_del_video](https://espolec-my.sharepoint.com/:v:/g/personal/dagoyagu_espol_edu_ec/ESzI-ldHZeRAnfh8Id7v0NIB1POX-gterjhPGcaQVJzsDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=eQ2FCr).
 
 ## Imagenes 📊
 
