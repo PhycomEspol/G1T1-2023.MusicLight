@@ -47,7 +47,8 @@ A continuacion se adjunta el link de one drive con el video del funcionamiento:
 
 
 <h1 align="center"> [MUSIC LIGHTS] </h1>
-<p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
+![Captura de pantalla 2024-03-07 003356](https://github.com/PhycomEspol/G1T1-2023.MusicLight/assets/145176980/c9a63f11-08ef-4a33-bec9-4cc56c605141)
+
 
 
 ## Descripcion  📋
@@ -106,27 +107,8 @@ Total Estimado: $2.70 USD 💲
 
 ## Esquemas 📊
 
-Puedes incluir diagramas, esquemas o gráficos que ayuden a comprender la estructura o funcionamiento de tu proyecto.
-
-## Instalacion-y-simulacion  🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-Proporciona instrucciones claras sobre cómo instalar y ejecutar tu proyecto en caso de que sea una aplicación o software. Si es un proyecto que se ejecuta en línea o una simulación, proporciona un enlace directo para acceder a él.
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
+A continuacion se presenta el circuito de funcionamiento en proteus:
+![implementación en proteus](https://github.com/ProjectsPhycom/G1T1-2023.MusicLight/assets/145176980/2ef0ec98-e4c4-4cce-8541-5ede310146f0)
 
 
 ## Autores ✒️
