@@ -46,7 +46,8 @@ A continuacion se adjunta el link de one drive con el video del funcionamiento:
 
 
 
-<h1 align="center"> [MUSIC LIGHTS] </h1>
+<h1 align="center"> [MUSIC LIGHTS] </h1>  
+
 ![Módulo](https://github.com/PhycomEspol/G1T1-2023.MusicLight/assets/145176980/01b1c02e-a44a-4215-8752-916a1b037e57)
 
 
