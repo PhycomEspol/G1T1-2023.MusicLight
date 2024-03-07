@@ -46,13 +46,15 @@ A continuacion se adjunta el link de one drive con el video del funcionamiento:
 
 
 
-<h1 align="center"> [Nombre del Proyecto] </h1>
+<h1 align="center"> [MUSIC LIGHTS] </h1>
 <p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
 
 
 ## Descripcion  📋
 ---
-Escribir sobre que trata el proyecto contestando a la pregunta ¿De qué trata el proyecto?
+ El proyecto consiste en la elaboracion de un modulo regulador de luces led para
+  que enciendan al ritmo de la musica. En este se puede regular la intencidad de la     luz y escoger mediante una switchera el color que se desea encender. Es importante    recalcar que se pueden encender varios colores a la vez.
+
 
 
 ## Pre-requisitos  📋
